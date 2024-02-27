@@ -11,9 +11,9 @@ title                    : "Yiwen Lu"
 title_separator          : "-"
 name                     : &name "Yiwen Lu"
 description              : &description "Ph.D. student at Tsinghua University"
-url                      : https://yluthu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yiwen.lu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yluthu/yluthu.github.io"
+repository               : "yiwenlu66/yluthu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yluthu"
+  github           : "yiwenlu66"
   google_plus      :
   keybase          :
   instagram        :
